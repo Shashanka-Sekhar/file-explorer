@@ -12,11 +12,11 @@ This project was developed as part of the *Capstone Project* under **LinuxOS and
 
 | Day | Task | Status |
 |-----|------|--------|
-| **Day 1** | Design project structure and setup development environment. Implement basic file listing. | ✅ Done |
-| **Day 2** | Add directory navigation — `cd`, `pwd`, and an interactive shell. | ✅ Done |
-| **Day 3** | Implement file operations: `cat`, `mkdir`, `rm`, `cp`, `mv`. | ✅ Done |
-| **Day 4** | Implement file search functionality using recursion (`find <pattern>`). | ✅ Done |
-| **Day 5** | Add file permission management (`info <file>`), and improve UI (colors, `clear` command). | ✅ Done |
+| **Day 1** | Design project structure and setup development environment. Implement basic file listing. | Done |
+| **Day 2** | Add directory navigation — `cd`, `pwd`, and an interactive shell. | Done |
+| **Day 3** | Implement file operations: `cat`, `mkdir`, `rm`, `cp`, `mv`. | Done |
+| **Day 4** | Implement file search functionality using recursion (`find <pattern>`). | Done |
+| **Day 5** | Add file permission management (`info <file>`), and improve UI (colors, `clear` command). | Done |
 
 ---
 
@@ -45,9 +45,9 @@ This project was developed as part of the *Capstone Project* under **LinuxOS and
 
 **UI Enhancements**
 - Color-coded output:
-  - 🟦 Blue → Directories  
-  - 🟩 Green → Success messages  
-  - 🟥 Red → Errors  
+  - Blue → Directories  
+  - Green → Success messages  
+  - Red → Errors  
 
 ---
 
